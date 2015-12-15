@@ -14,5 +14,3 @@ Make header bold
 Make small figure, red line
 
 Make some changes for the experimental branch!
-
-La la la.
