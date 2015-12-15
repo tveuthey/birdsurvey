@@ -8,4 +8,4 @@ Save table
 
 Make header bold
 
-Save small figure
+Make small figure, red line
